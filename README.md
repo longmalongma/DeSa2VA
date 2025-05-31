@@ -17,18 +17,18 @@ Existing video segmenter and grounder approaches, exemplified by Sa2VA, directly
 
 ## Model Overview
 <p align="center">
-<img src="image/architecture.png" alt="model" width="80%">
+<img src="assets/architecture.png" alt="model" width="80%">
 </p>
 
 <p align="center">
-<img src="image/Figure1.png" alt="model" width="80%">
+<img src="assets/Figure1.png" alt="model" width="80%">
 </p>
 
 ## Examples
 The figure below shows examples of DeSa2VA's performance on segmentation and question-answering tasks.
 
 <p align="center">
-<img src="image/Fig3.png" alt="example" width="80%">
+<img src="assets/Fig3.png" alt="example" width="80%">
 </p>
 
 ## Demo
