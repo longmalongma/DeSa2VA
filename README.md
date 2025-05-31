@@ -20,6 +20,10 @@ Existing video segmenter and grounder approaches, exemplified by Sa2VA, directly
 <img src="image/architecture.png" alt="model" width="80%">
 </p>
 
+<p align="center">
+<img src="image/Figure1.png" alt="model" width="80%">
+</p>
+
 ## Examples
 <p align="center">
 <img src="image/Fig3.png" alt="example" width="80%">
