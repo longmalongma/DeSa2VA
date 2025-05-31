@@ -25,6 +25,8 @@ Existing video segmenter and grounder approaches, exemplified by Sa2VA, directly
 </p>
 
 ## Examples
+The figure below shows examples of DeSa2VA's performance on segmentation and question-answering tasks.
+
 <p align="center">
 <img src="image/Fig3.png" alt="example" width="80%">
 </p>
